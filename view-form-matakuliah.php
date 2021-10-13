@@ -9,13 +9,13 @@
                 
                 <tr> <td colspan="3"> <hr> </td> </tr> 
                 <tr> 
-				    <?php echo form_error('kode'); ?>
+		    <?php echo form_error('kode'); ?>
                     <th>Kode MTK</th> <th>:</th> 
                     <td> <input type="text" name="kode" id="kode"> </td> 
                 </tr> 
                 <tr> 
-				    <?php echo form_error('nama'); ?>
-				    <th>Nama MTK</th> <th>:</th> 
+		    <?php echo form_error('nama'); ?>
+		    <th>Nama MTK</th> <th>:</th> 
                <td> <input type="text" name="nama" id="nama"> </td> 
                 </tr> 
                 <tr> <th>SKS</th> <th>:</th> 
